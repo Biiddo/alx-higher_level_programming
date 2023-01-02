@@ -1,4 +1,4 @@
-#!/bin/bash/python3
-number = 98
+#!/bin/bash
+num = int num
 print(f"{number:d} Battery street")
 
